@@ -3,6 +3,7 @@
 ## Projects
 
 ### LMN-3
+![Final Assembly](images/fully_assembled.JPEG)
 
 The LMN-3 is an open source DAW-in-a-box. The project is composed of the following repositories:
 - [LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide)
