@@ -25,7 +25,7 @@ such as recording, editing, and mixing. It is powered by an open-source audio en
 
 
 #### [LMN-3-MCAD](https://github.com/FundamentalFrequency/LMN-3-MCAD)
-The LMN-3-MCAD repository contains the FreeCAD project files for the LMN-3 case. The releases contained in this repostory contain files that can be 
+The LMN-3-MCAD repository contains the FreeCAD project files for the LMN-3 enclosure. The releases contained in this repostory contain files that can be 
 used to lasercut (or 3-D print) the enclosure for the LMN-3. 
 
 #### [LMN-3-ECAD](https://github.com/FundamentalFrequency/LMN-3-ECAD)
