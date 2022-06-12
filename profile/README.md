@@ -14,6 +14,8 @@ The LMN-3 is an open source DAW-in-a-box. The project is composed of the followi
 - [LMN-3-Emulator](https://github.com/FundamentalFrequency/LMN-3-Emulator)
 - [LMN-3-Keycaps](https://github.com/FundamentalFrequency/LMN-3-Keycaps)
 
+[Here](https://www.youtube.com/watch?v=h5UmPTttN1s) is an overview video of the project.
+
 #### [LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide)
 The build guide explains everything concerning the configuration and assembly of the LMN-3. It will guide you through the process of flashing the
 firmware, soldering the PCB, assembling the case, and configuring the Raspberry Pi for use with the LMN-3 DAW.
